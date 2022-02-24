@@ -1,1 +1,2 @@
+hi mc2
 new file from master branch
