@@ -1,4 +1,5 @@
 <<<<<<< HEAD
 new file from master branch
-merge conflict resolved
+merge conflict resolve
+merge to master
 >>>>>>> dev
