@@ -1,1 +1,2 @@
 this is a java file of master branch
+changed to check git status
