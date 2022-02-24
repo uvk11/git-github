@@ -1,1 +1,2 @@
 new file from master branch
+merge conflict
